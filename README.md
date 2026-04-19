@@ -13,5 +13,6 @@ This project is a Java Swing application that visualizes Lissajous curves based 
 - Graphics rendering (paintComponent)
 - Java Swing (JFrame, JPanel, JTextField)
 - Basic algorithms (GCD calculation)
-![Lissajous Curve](the graph.png)
+<img width="922" height="878" alt="the graph" src="https://github.com/user-attachments/assets/39422078-cfd2-4a86-8603-4484955fc156" />
+
 
